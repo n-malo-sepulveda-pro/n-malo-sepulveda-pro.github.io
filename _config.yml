@@ -1,3 +1,5 @@
 remote-theme: pages-themes/leap-day@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: Página inicial de n-malo-sepulveda-pro
 description: Portafolio de n-malo-sepulveda-pro en preparación.
